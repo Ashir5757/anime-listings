@@ -1,4 +1,4 @@
-# LaraGigs app
+# Anime Listing app
 
 An app for listing Laravel gigs/jobs. This project is from my YouTube "[Laravel From Scratch 2022](https://www.youtube.com/watch?v=MYyJ4PuL4pY)" course.
 
